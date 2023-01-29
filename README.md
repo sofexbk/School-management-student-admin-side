@@ -1,2 +1,2 @@
-# School-management-student-admin-side
-That contains a interface of both admin and student where admin manage student data and add schedule and the student then can see the schedule
+that's a video link that show how the platforme works
+https://drive.google.com/file/d/1MbOlXLaqxWP6PEdZDZRCY-EowX12Z_h5/view?usp=share_link
